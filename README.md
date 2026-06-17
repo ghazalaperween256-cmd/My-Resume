@@ -19,11 +19,10 @@ I am a Computer Engineering diploma holder from Jamia Millia Islamia, passionate
   * University Polytechnic, Jamia Millia Islamia, New Delhi
 * **Matriculation / 10th Standard** (2020 – 2021)
   * Eraqui Urdu Girls Inter School, Bihar
-
-
 ---
+
 ## 📬 Connect With Me
 
 * **Email:** ghazalaperween256@gmail.com
-* **LinkedIn:** [linkedin.com/in/ghazala-perween-3550261](https://linkedin.com/in/ghazala-perween)
+* **LinkedIn:** [linkedin.com/in/ghazala-perween](https://linkedin.com/in/ghazala-perween)
 * **GitHub:** [github.com/ghazalaperween25d](https://github.com/ghazalaperween25d)
